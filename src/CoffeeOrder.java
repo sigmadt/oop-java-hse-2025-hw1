@@ -20,5 +20,6 @@ public class CoffeeOrder {
         // 5) Вычислить общую стоимость и вывести результат;
         // 6) (Опционально) продолжать спрашивать, пока пользователь не решит завершить.
         System.out.println("Hello!");
+        System.out.println("Hello again!");
     }
 }
